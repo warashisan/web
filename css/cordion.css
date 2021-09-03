@@ -9,7 +9,7 @@ html{
   font-size: 10px;
 }
 header{
-  background-image: url("href="https://warashisan.github.io/web/foto/warashi_bamboo.png");
+  background-image: url(href="https://warashisan.github.io/web/foto/warashi_bamboo.png");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -30,7 +30,7 @@ font-size: 12px;
 color: rgb(255, 255, 255);
 text-align: center;
 height: 600px;
-background-image: url(href="https://warashisan.github.io/web/foto/blood.png);
+background-image: url(href="https://warashisan.github.io/web/foto/blood.png");
 background-size: cover;
 background-attachment: fixed;
 }
